@@ -1,0 +1,19 @@
+update 2010-11-13
+-----------------
+
+Some people were complaining that the FTP doesn't work.
+This meant: time for an overhaul.
+
+Installation instructions for this update:
+1° If the bot is running, close it.
+2° Copy the file top10-score.mrc to the folder "mirc-fun".
+3° Copy the files cmd.ftp and newftp.bat to the folder "mirc-fun/export".
+4. Reboot the bot.
+5. It's possible, during the first export, that you will get a message from
+   Windows-firewall. You, of course, need to allow the transfer to continue.
+
+update 2009-12-18
+-----------------
+
+Features added (upon request):
+* Unlimited number of candidates. (Configurable in instellingen.conf.)

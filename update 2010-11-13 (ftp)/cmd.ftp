@@ -1,0 +1,6 @@
+open users.ftp.be
+username
+pass
+cd /dir
+put index.html
+quit

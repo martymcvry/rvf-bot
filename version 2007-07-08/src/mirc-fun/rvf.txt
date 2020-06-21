@@ -1,0 +1,1319 @@
+? ? ?|De elfde maand van het jaar
+? ? ?|een afspraakje maken
+? ? ?|een ei bakken
+? ? ?|een geheime missie
+? ? ?|een heerlijk vluggertje
+? ? ?|een heerlijke tongzoen
+? ? ?|Een lastig karwei
+? ? ?|een lekker slippertje
+? ? ?|een lekkere trio beurt
+? ? ?|een man met een lange baard
+? ? ?|een mooie liefdesbrief
+? ? ?|een operazanger
+? ? ?|een pakje condooms
+? ? ?|een penetratie
+? ? ?|Een serenade onder het balkon
+? ? ?|een smakelijke lunchpauze
+? ? ?|een telling doen
+? ? ?|Een vraagstuk oplossen
+? ? ?|een wilde nacht met je geliefde
+? ? ?|een wipje maken
+? ? ?|Het monster van Loch Ness
+? ? ?|het strelen van het volledige lichaam
+? ? ?|Het winnen van een wedstrijd
+? ? ?|je vingers verbranden op een hete kookplaat
+? ? ?|Masturbatie
+? ? ?|met de schoolbus naar huis toe
+? ? ?|Pukkelpop
+? ? ?|Telescoping
+? ? ?|vergeet je boekentas niet
+? ? ?|Vergeet niet in de soep te roeren
+? ? ?|Viva bomma patatten met saucissen
+Activiteit|aankleden
+Activiteit|aankomen
+Activiteit|amuseren
+Activiteit|baden
+Activiteit|bakken
+Activiteit|bekijken
+Activiteit|bespuiten
+Activiteit|bestuderen
+Activiteit|bezichtigen
+Activiteit|biepen
+Activiteit|Boksen
+Activiteit|Boogschieten
+Activiteit|camperen
+Activiteit|Carpoolen
+Activiteit|cyberen
+Activiteit|De Humo lezen
+Activiteit|de living kuisen met water
+Activiteit|De marathon uitlopen
+Activiteit|de wagen een grondige wasbeurt geven
+Activiteit|de zolder opruimen
+Activiteit|draaien aan het rad van fortuin
+Activiteit|een aardappel schillen
+Activiteit|een avondje gaan biljarten
+Activiteit|een avondje uit op cafe
+Activiteit|een avondje uitgaan met vrienden
+Activiteit|een bad nemen
+Activiteit|een boek lezen
+Activiteit|Een brief vol dt-fouten schrijven
+Activiteit|Een computerspel spelen
+Activiteit|een eindje om lopen
+Activiteit|een film huren
+Activiteit|een ijsje gaan eten met grootmoeder
+Activiteit|een lekker warm soepje koken
+Activiteit|Een marathon lopen
+Activiteit|een match voetbal volgen met vrienden
+Activiteit|een mooie liefdesbrief neerpennen
+Activiteit|een ontbijt voor je geliefde klaarmaken
+Activiteit|een opname bijwonen van een televisieprogramma
+Activiteit|Een ritje maken met de kusttram
+Activiteit|een sigaretje roken
+Activiteit|Een sms versturen
+Activiteit|een smsje versturen
+Activiteit|Een stapje in de wereld zetten
+Activiteit|Elektrificeren
+Activiteit|Elke avond chatten op het internet
+Activiteit|fietsen
+Activiteit|Figurant spelen in 'Wittekerke'
+Activiteit|gaan eten op restaurant
+Activiteit|gaan zwemmen met het gezin
+Activiteit|genieten van een lekker glas wijn
+Activiteit|Genieten van het weekend
+Activiteit|graveren
+Activiteit|Het ontduiken van belasting
+Activiteit|het ontduiken van belastingen
+Activiteit|hoogspringen
+Activiteit|huppelen
+Activiteit|iemand een kusje geven
+Activiteit|iemand hartstochelijk zoenen
+Activiteit|iemand ten dans vragen
+Activiteit|iemand uitnodigen op een feestje
+Activiteit|in een hoekje zitten piekeren
+Activiteit|in het kleurboek kleuren
+Activiteit|internetten
+Activiteit|je faforiete muziek beluisteren
+Activiteit|je geliefde ten huwelijk vragen
+Activiteit|Je schoen klaarzetten voor Sint en Piet
+Activiteit|kaarten
+Activiteit|klimmen
+Activiteit|knuffelen
+Activiteit|knuppelen
+Activiteit|kogelstoten
+Activiteit|lingo spelen
+Activiteit|luieren
+Activiteit|mailen
+Activiteit|meenemen
+Activiteit|mengen
+Activiteit|met de hond gaan wandelen
+Activiteit|met de nationale loterij spelen
+Activiteit|met de zeilboot op zee gaan
+Activiteit|met een roosje thuis komen bij je geliefde
+Activiteit|met het gezin naar de efteling
+Activiteit|met het hele gezin op uitstap
+Activiteit|met het vliegtuig op reis gaan
+Activiteit|met je partner naar bed gaan
+Activiteit|met water en zeep poetsen
+Activiteit|mopperen
+Activiteit|naar de bioscoop gaan
+Activiteit|naar de speeltuin met de kinderen
+Activiteit|naar een chatmeeting gaan
+Activiteit|naar een concert gaan met je geliefde
+Activiteit|Naar een eroticabeurs gaan
+Activiteit|naar het teather gaan met een vriend
+Activiteit|Om vijf uur opstaan
+Activiteit|omdraaien
+Activiteit|onthouden
+Activiteit|ontvangen
+Activiteit|Op de boerenbuiten gaan wonen
+Activiteit|opgeven
+Activiteit|opgraven
+Activiteit|opschieten
+Activiteit|opstappen
+Activiteit|overgeven
+Activiteit|overleggen
+Activiteit|parfumeren
+Activiteit|Pompoenen uithollen voor Halloween
+Activiteit|Pootjebaden
+Activiteit|reizen
+Activiteit|restaureren
+Activiteit|Reviseren
+Activiteit|rijden
+Activiteit|samen gezellig koken
+Activiteit|samen gezellig televisie kijken
+Activiteit|Samen onder de douche
+Activiteit|schieten
+Activiteit|schminken
+Activiteit|smakken
+Activiteit|snoepen
+Activiteit|spieken
+Activiteit|sproeien
+Activiteit|studeren
+Activiteit|surfen
+Activiteit|tafelen
+Activiteit|takelen
+Activiteit|telefoneren
+Activiteit|tongzoenen
+Activiteit|uitgaan
+Activiteit|Uitgaan tot in de vroege uurtjes
+Activiteit|uitkleden
+Activiteit|uitwisselen
+Activiteit|verdraaien
+Activiteit|vergaderen
+Activiteit|verhuizen
+Activiteit|vermaken
+Activiteit|verminken
+Activiteit|verspringen
+Activiteit|vervoledigen
+Activiteit|verwijten
+Activiteit|verzorgen
+Activiteit|Vissen naar kabeljauw
+Activiteit|vloeken
+Activiteit|Voetballen
+Activiteit|wandelen
+Activiteit|wippen
+Activiteit|zetelen
+Activiteit|zonnen
+Activiteit|Zwart werken
+Activiteit|zwemmen
+Activiteit|zweten
+Bekende Belg|Adolphe Sax
+Bekende Belg|Andrea Croonenberghs
+Bekende Belg|Ann christy
+Bekende Belg|Anne de Baetselier
+Bekende Belg|Arno
+Bekende Belg|Bart de Pauw
+Bekende Belg|Bart Kaell
+Bekende Belg|Bart Van den Bossche
+Bekende Belg|Ben Crabbe
+Bekende Belg|Birgit Van mol
+Bekende Belg|Bob Benny
+Bekende Belg|Conny Fabri
+Bekende Belg|Danny fabri
+Bekende Belg|Danny verstraeten
+Bekende Belg|Eddy Planckaert
+Bekende Belg|Eddy Wally
+Bekende Belg|Elio Di Rupo
+Bekende Belg|Ellen Duffour
+Bekende Belg|Eva Pauwels
+Bekende Belg|Francesca Vanthielen
+Bekende Belg|Fred Bekky
+Bekende Belg|Garry Hagger
+Bekende Belg|Gaston Berghmans
+Bekende Belg|Goedele Liekens
+Bekende Belg|Gunther Levi
+Bekende Belg|Guy Verhofstadt
+Bekende Belg|Hanne Troonbeeckx
+Bekende Belg|Hans Otten
+Bekende Belg|Helmut Lotti
+Bekende Belg|Ingeborg
+Bekende Belg|Isabelle A
+Bekende Belg|Jacques Vermeire
+Bekende Belg|Jan Leyers
+Bekende Belg|Jean Blaute
+Bekende Belg|Jean-Luc De Haene
+Bekende Belg|Jean-Marie Pfaff
+Bekende Belg|Jimmy Samijn
+Bekende Belg|Jo met de banjo
+Bekende Belg|Joke Devynck
+Bekende Belg|Jos Van Oosterwijck
+Bekende Belg|Kamagurka
+Bekende Belg|Karel Deruwe
+Bekende Belg|Kate ryan
+Bekende Belg|Kelly pfaff
+Bekende Belg|Koen Wauters
+Bekende Belg|Koning Albert
+Bekende Belg|Koningin Fabiola
+Bekende Belg|Koningin Paola
+Bekende Belg|Kris Wauters
+Bekende Belg|Kurt Rogiers
+Bekende Belg|Liliane Saint pierre
+Bekende Belg|Luc Appermont
+Bekende Belg|Manneken Pis
+Bekende Belg|Marc demesmaeker
+Bekende Belg|Marlene de Wouters
+Bekende Belg|Minister Marino Keulen
+Bekende Belg|Minister van Buitenlandse Zaken Karel De Gucht
+Bekende Belg|M-Kids
+Bekende Belg|Mooie Els Tibau
+Bekende Belg|Nina De Man
+Bekende Belg|Paul anderson
+Bekende Belg|Paul severs
+Bekende Belg|Prins Filip
+Bekende Belg|Prins Laurent
+Bekende Belg|Prinses Mathilde
+Bekende Belg|Rene Magritte
+Bekende Belg|Salim segers
+Bekende Belg|Sam gooris
+Bekende Belg|Sandra kim
+Bekende Belg|Stef wauters
+Bekende Belg|Steve stevaert
+Bekende Belg|Steven Spillebeen
+Bekende Belg|Tina Bride
+Bekende Belg|Tinke_lat
+Bekende Belg|Ulla Werbrouck
+Bekende Belg|Urbanus
+Bekende Belg|Walter Capiau
+Bekende Belg|Walter Grootaers
+Bekende Belg|Walter grootaerts
+Bekende Belg|Wendy Van Wanten
+Bekende Belg|Wilfried Martens
+Bekende Belg|Will Ferdy
+Bekende Belg|Will Tura
+Bekende Belg|Willy Sommers
+Bekende Belg|Yvonne Verbeeck
+Bekende Belg|Zangeres Belle Perez
+Bekende Belg|Zoe Van Gastel
+Bekende Nederlander|Andre Hazes
+Bekende Nederlander|Andre Van Duin
+Bekende Nederlander|Benny Neyman
+Bekende Nederlander|Frans Bauer
+Bekende Nederlander|Guus Meeuwis
+Bekende Nederlander|Huub Stapel
+Bekende Nederlander|Jantje Smit
+Bekende Nederlander|John De Mol
+Bekende Nederlander|Koos Alberts
+Bekende Nederlander|Marco Borsato
+Bekende Nederlander|Marianne Weber
+Bekende Nederlander|Paul de Leeuw
+Bekende Nederlander|Rene Froger
+Bekende Nederlander|Vader abraham
+Bekende Nederlander|Zijne Koninklijke Hoogheid Prins Willem-Alexander
+Beroemde duo's|Albert en Paola
+Beroemde duo's|Alexandera Potvin en Yasmine
+Beroemde duo's|Annemieke en Rozemieke
+Beroemde duo's|Barbie en Ken
+Beroemde duo's|Bart en Katrijn uit Big Brother
+Beroemde duo's|Boudewijn en Fabiola
+Beroemde duo's|Den dikke en den dunne
+Beroemde duo's|Dirk Somers en Luc Verschueren
+Beroemde duo's|Erik Van Neygen en Sanne
+Beroemde duo's|Filip en Mathilde
+Beroemde duo's|Frank Galan en Sandra kim
+Beroemde duo's|Frans Bauer en Marianne weber
+Beroemde duo's|Gaston Berghmans en Leo Martin
+Beroemde duo's|Gaston en Leo
+Beroemde duo's|Gunther Levi en Silvia Claes
+Beroemde duo's|Ike en Tina Turner
+Beroemde duo's|Ingeborg en Arthur
+Beroemde duo's|Isabelle A en Raf Van Brussel
+Beroemde duo's|Isabelle A en Willy Sommers
+Beroemde duo's|Jacques Vermeire en Eva Pauwels
+Beroemde duo's|Jacques Vermeire en Luc Verschueren
+Beroemde duo's|John Kerry en George Bush
+Beroemde duo's|Johnny Depp en Vanessa Paradis
+Beroemde duo's|Kamagurka en Herr Seele
+Beroemde duo's|Koen en Kris Wauters
+Beroemde duo's|Koen Wauters en Ingeborg
+Beroemde duo's|Koen Wauters en Sarah
+Beroemde duo's|Koos Alberts en Willeke Alberti
+Beroemde duo's|Luc Steeno en Sandra Kim
+Beroemde duo's|Marco Borsato en Sita
+Beroemde duo's|Milk inc en Silver
+Beroemde duo's|Nicole en Hugo
+Beroemde duo's|Robbedoes en Kwabbernoot
+Beroemde duo's|Samson en Gert
+Beroemde duo's|Sonny en Cher
+Beroemde duo's|Stany Crets en Peter Van Den Begin
+Beroemde duo's|Suske en Wiske
+Beroemde duo's|Tarzan en Jane
+Beroemde duo's|Wendy Van Wanten en Willy Sommers
+Beroemde duo's|Willem-Alexander en Maxima
+Beroemde duo's|Willy Sommers en Anne De Baetselier
+Beroemde duo's|De bolle billen van Jennifer Lopez
+Beroemde flaters|Bruudruuster
+Beroemde flaters|De grote pruimen van Dolly Parton
+Beroemde flaters|Osebolle O
+Beroep|Aalmoezenier
+Beroep|acteur
+Beroep|actrice
+Beroep|administratief bediende
+Beroep|advocaat
+Beroep|advocate
+Beroep|afwasser
+Beroep|Antiekhandelaar
+Beroep|Badmeester
+Beroep|bankdirecteur
+Beroep|Banketbakker
+Beroep|bediener
+Beroep|Beenhouwer
+Beroep|Begrafenisondernemer
+Beroep|belastingscontroleur
+Beroep|Beleggingsadviseur
+Beroep|bewaker
+Beroep|boekhouder
+Beroep|bouwvakker
+Beroep|brandweerman
+Beroep|burgemeester
+Beroep|cameraman
+Beroep|chauffeur
+Beroep|commisaris
+Beroep|controleur
+Beroep|deurwaarder
+Beroep|Dierenarts
+Beroep|directeur
+Beroep|directrice
+Beroep|een bakker
+Beroep|een butler
+Beroep|een garcon
+Beroep|een lader
+Beroep|een lasser
+Beroep|Een logopediste
+Beroep|Fruitkweker
+Beroep|houtbewerker
+Beroep|huisdokter
+Beroep|hulpagent
+Beroep|hulpkok
+Beroep|juwelier
+Beroep|Kapster
+Beroep|Kassier
+Beroep|kassierster
+Beroep|keukenhulp
+Beroep|Kinderverzorgster
+Beroep|Leraar wiskunde
+Beroep|lijfwacht
+Beroep|loodgieter
+Beroep|manager
+Beroep|marktkramer
+Beroep|metselaar
+Beroep|minister
+Beroep|notaris
+Beroep|opdiener
+Beroep|Pastoor
+Beroep|postbode
+Beroep|presentator
+Beroep|producer
+Beroep|rechter
+Beroep|rekkenvuller
+Beroep|restauranthouder
+Beroep|rijkswachter
+Beroep|Secretaresse
+Beroep|secretaris
+Beroep|sleutelmaker
+Beroep|tandarts
+Beroep|technieker
+Beroep|telefonist
+Beroep|telefoniste
+Beroep|Televisiepresentator
+Beroep|verdeler
+Beroep|verkoper
+Beroep|Visboer
+Beroep|Visser
+Beroep|Walvisjager
+Beroep|winkelier
+Beroep|winkeljuf
+Beroep|zanger
+Beroep|zangeres
+Beroep|zelfstandige
+Bezienswaardigheid|Brugse kant
+Bezienswaardigheid|De kathedraal van Antwerpen
+Bezienswaardigheid|De Lierse Zimmertoren
+Bezienswaardigheid|De mooie benen van Tina Turner
+Bezienswaardigheid|Het Belfort van Brugge
+Bezienswaardigheid|Madurodam
+Bezienswaardigheid|Manneken Pis
+Chatters|bart
+Chatters|droopy
+Chatters|Joost
+Chatters|lelly
+Chatters|ThInKsKe
+Chatters|Tinke_lat
+Chatters|voodoo
+Chatters|joey
+Chatters|SuNnYbOy
+Chatters|Evitjeuh
+Chatters|FluX
+Chatters|beckham
+Chatters|[WiEnE]
+Citaat|Abracadabra
+Citaat|Akke akke tuut tuut
+Citaat|begrijp je
+Citaat|Begrijp je?
+Citaat|Geen commentaar
+Citaat|Ik ga het zeggen walter
+Citaat|Ik ga het zeggen, Walter!
+Citaat|ni te doen
+Citaat|twee kopen is een betalen
+Citaat|Vrouwen en kinderen eerst
+Citaat|Zij zijn groot en ik is klein en dat is niet eerlijk
+Ding|Broodrooster
+Ding|Champagnefles
+Ding|de bureau van de grote baas
+Ding|De carrosserie van een auto
+Ding|De gele briefkaart
+Ding|De jaarlijkse griepprik
+Ding|De sigaar van Monica Lewinsky
+Ding|de voordeur van een huis
+Ding|een aansteker
+Ding|een aardappelmes
+Ding|een antieke kader
+Ding|Een apenootje
+Ding|een bakstenen muurtje
+Ding|een bedlaken
+Ding|een blikje drank
+Ding|een blikopener
+Ding|een blonde pruik
+Ding|Een brandblusapparaat
+Ding|een buitengordijn
+Ding|Een bureaulampje
+Ding|een computermuis
+Ding|een dierenkooi
+Ding|een dure computer
+Ding|een dure zonnebril
+Ding|een duur fototoestel
+Ding|een eetbord
+Ding|een emmer gevuld met water en zeep
+Ding|Een encyclopedie
+Ding|een enorme lange tuinslang
+Ding|een faxtoestel van het werk
+Ding|een flesje perfum
+Ding|een gangmatje
+Ding|Een gevarendriehoek
+Ding|een glas gevuld met water
+Ding|een gloeiende kaars
+Ding|een gouden ring
+Ding|een groot bed
+Ding|een grote aquarium vol vissen
+Ding|een grote ijskast
+Ding|een grote sigaar
+Ding|Een haarspeldbocht
+Ding|een harde steen
+Ding|een hondenhok
+Ding|een houten ladder
+Ding|een houten lepel
+Ding|een houten tafelpoot
+Ding|een ijzeren ketting
+Ding|een ijzeren stoel
+Ding|een ijzeren trap
+Ding|Een kalender
+Ding|een kast vol vrouwenkledij
+Ding|een kerkklok
+Ding|een kleine stofzuiger
+Ding|een knipperend lichtje
+Ding|een Koffiezet
+Ding|een lange trein
+Ding|een lederen schoen
+Ding|een lederen zetel
+Ding|een lege fles
+Ding|een luidspreker
+Ding|een mooie gekleurde foto
+Ding|een mop met een baard
+Ding|een nachtlampje
+Ding|een nieuwe motorkap
+Ding|een opklap tafel
+Ding|een oven
+Ding|Een peper- en zoutvaatje
+Ding|een plastieken vuilblik
+Ding|Een pluchen beer
+Ding|een poetsborstel
+Ding|een radiowekker
+Ding|een reuze ijskast
+Ding|Koekoeksklok
+Ding|Een rol aluminiumfolie
+Ding|een rol wcpapier
+Ding|een ronde grote doos
+Ding|Een roze badmuts
+Ding|een schatkist vol juwelen
+Ding|een schoolschrift
+Ding|een sigaret
+Ding|een sigarettenpeuk
+Ding|een stadstram
+Ding|Een suikerpot
+Ding|een tandenborstel
+Ding|een televisie afstandsbediening
+Ding|een twee persoons matras
+Ding|een verfrissende ventilator
+Ding|een versleten dakgoot
+Ding|een videospelletje
+Ding|een vijver vol vissen
+Ding|een visbokaal
+Ding|een vliegtuig
+Ding|Een voorlopig rijbewijs
+Ding|Een wc-borstel
+Ding|Een webcamera
+Ding|een wedstrijdsbeker
+Ding|een witte deurbel
+Ding|een wollen deken
+Ding|een wollen tapijt
+Ding|een zachte pantoffel
+Ding|een zachte sofa
+Ding|een zwarte telefoon
+Ding|Het clubblad van de plaatselijke tennisclub
+Ding|Het computerspel 'Tomb Raider'
+Ding|Het mistlicht van een auto
+Ding|Het peukje van een sigaret
+Ding|houten tuinhuisje
+Ding|Keldertrap
+Ding|Microfoon
+Ding|Naaldhakken
+Ding|Robotfoto
+Ding|Shampoo
+Ding|Vleugelpiano
+Ding|Wereldbol
+Ding|Cijfersloten
+Fictief persoon|Assepoester
+Fictief persoon|De rode ridder
+Fictief persoon|Frankenstein
+Fictief persoon|Het hertje Bambi
+Fictief persoon|Jerom
+Fictief persoon|Jommeke
+Fictief persoon|Kapitein Haak
+Fictief persoon|Klein Duimpje
+Fictief persoon|Lambik
+Fictief persoon|Lara Croft
+Fictief persoon|Marsmannetje
+Fictief persoon|Sherlock Holmes
+Fictief persoon|Smurfin
+Fictief persoon|suske
+Fictief persoon|wiske
+Film|Al Pacino
+Film|American History X
+Film|american pie
+Film|An American Tail
+Film|Armageddon
+Film|Atlantis
+Film|Back To The Future
+Film|Batman Forever
+Film|Batman Robin
+Film|Beauty and the beast
+Film|beethoven
+Film|Beverly Hills Cop
+Film|blinker en het bagdadjuweel
+Film|Brokedown palace
+Film|bye bye blue bird
+Film|Cast Away
+Film|Charlie Chaplin
+Film|childs play
+Film|chill factor
+Film|chocolat
+Film|chutney popcorn
+Film|Cliff Hanger
+Film|Confituur
+Film|Daens
+Film|Dances With Wolves
+Film|De Amerikaanse horrorprent 'Scream'
+Film|De Paniekzaaiers
+Film|De Zaak Alzheimer
+Film|de zevende hemel
+Film|Die another day
+Film|Een spannende thriller met een happy end
+Film|Fantomas
+Film|final destination
+Film|Finding Nemo
+Film|Forrest Gump
+Film|Gaston en Leo in Hong kong
+Film|Ghost
+Film|Ghostbusters
+Film|Gladiator
+Film|golden eye
+Film|Gone With The Wind
+Film|Grease
+Film|Guest house paradiso
+Film|Hannibal
+Film|Happy Texas
+Film|Harrison Ford
+Film|Harry Potter
+Film|Heartbreakers
+Film|Home Alone
+Film|Hong kong Legends
+Film|Hot Shots
+Film|Independence Day
+Film|Indiana Jones And The Last Crusade
+Film|Jackass the movie
+Film|Jennifer Lopez in 'anaconda'
+Film|Jurassic Park
+Film|K3 en het magische medaillon
+Film|King kong
+Film|La vie est belle
+Film|Lake placid
+Film|lassie
+Film|Liar Liar
+Film|Little vampire the
+Film|Men In Black
+Film|Mission Impossible
+Film|my blue heaven
+Film|never say never again
+Film|Ocean's Eleven
+Film|Pearl Harbor
+Film|Pink Panther
+Film|Pirates Of The Caribbean
+Film|Planet Of The Apes
+Film|Pretty Woman
+Film|problem child
+Film|Rain Man
+Film|rambo
+Film|Robin Hood
+Film|Robocop
+Film|rocky
+Film|Save the last dance
+Film|Saving Private Ryan
+Film|Scary movie
+Film|scream
+Film|See Spot Run
+Film|Signs
+Film|space cowboys
+Film|Spiderman
+Film|Spider-man
+Film|Star Wars
+Film|Superman
+Film|Team spirit
+Film|Terminator
+Film|The Day after tomorrow
+Film|The Exorcist
+Film|The Fugitive
+Film|The Lion King
+Film|The lord of the rings
+Film|the man with the golden gun
+Film|The Matrix Reloaded
+Film|The Mummy Returns
+Film|the nutty proffesor
+Film|The Passion of the christ
+Film|The Sixth Sense
+Film|Thunderbirds
+Film|Titanic
+Film|Tomorrow never dies
+Film|Top Gun
+Film|Twister
+Film|you've got mail
+Gebeurtenis|De eerste ronde van de Champions League
+Gebeurtenis|de friese elfstedentocht
+Gebeurtenis|De stierenrennen in Pamplona
+Gebeurtenis|Een vierdaagse citytrip naar Barcelona
+Gebeurtenis|Eend met sinaasappel
+Gebeurtenis|Gemaskerd bal
+Gebeurtenis|Kip met appelmoes
+Gebeurtenis|Omschakelen naar de wintertijd
+Gebeurtenis|Peking eend
+Huis en tuin|De aanbouwkeuken
+Huis en tuin|De groene milieubox
+Huis en tuin|Een badkamer met jacuzzi
+Huis en tuin|Een boiler van tachtig liter
+Huis en tuin|Een gazon vol met mos
+Huis en tuin|Een woonkamer met vloerverwarming
+Huis en tuin|Molshoop
+Huis en tuin|Parlofoon
+Huis en tuin|Studentenkot
+Keuken|Amaretto
+Keuken|Appelsap
+Keuken|Aquarius
+Keuken|Avocado
+Keuken|Bacardi
+Keuken|Bacardi Breezer
+Keuken|Bacardi Cola
+Keuken|Chocolademelk
+Keuken|Coca cola
+Keuken|Cola light
+Keuken|De geur van karakollen
+Keuken|Dr pepper
+Keuken|Een aardappelmesje
+Keuken|Een bokaal met augurken
+Keuken|Een halve kreeft
+Keuken|Een rasp
+Keuken|Een stukje Brie
+Keuken|een Watertje
+Keuken|Een wokgerecht
+Keuken|Een wolkje melk
+Keuken|Gerst en hop
+Keuken|Hoegaarden
+Keuken|Hutsepot
+Keuken|Jenever
+Keuken|Jupiler
+Keuken|Koffie
+Keuken|Kriek
+Keuken|Limonade
+Keuken|Martini
+Keuken|Oploskoffie
+Keuken|Parelhoen met mandarijntjes
+Keuken|Peperroomsaus
+Keuken|Pisang Ambon
+Keuken|Pomelo
+Keuken|Redbull
+Keuken|Rolmops
+Keuken|Sinaasappelsap
+Keuken|Smirnoff
+Keuken|Stella
+Keuken|Tomatensoep met veel balletjes
+Keuken|Wiskey
+Keuken|Wittekerke
+Keuken|Wodka redbull
+Krantenkop|Haaien krijgen vegetarisch eten
+Krantenkop|Justine Henin bezorgt ons land eindelijk nog eens goud
+Krantenkop|Michael Jackson wil blanke vrouw worden
+Krantenkop|Miljoen Vlamingen kan moeilijk lezen en schrijven
+Krantenkop|Prikklok voor leerlingen in Maasmechelen
+Krantenkop|Steeds minder tweelingen in Vlaanderen
+Kunst en cultuur|Beethoven
+Kunst en cultuur|'David' van Michelangelo
+Kunst en cultuur|'De schreeuw' van Edvard Munch
+Kunst en cultuur|Een lange opera van Verdi
+Kunst en cultuur|Een stuk van Shakespeare
+Kunst en cultuur|Felix Timmermans
+Kunst en cultuur|'Het Lam Gods' van Hubert en Jan Van Eyck
+Kunst en cultuur|Johannes Brahms
+Kunst en cultuur|Operazanger
+Kunst en cultuur|Panamarenko
+Kunst en cultuur|Schilder en beeldhouwer Pablo Picasso
+Kusnt en cultuur|Een tekening van Constant Permeke
+Lijf en leden|Billen met een tattoo
+Lijf en leden|Borstvergroting
+Lijf en leden|De boezem van Pamela Anderson
+Lijf en leden|de dikke teen
+Lijf en leden|De kale kop van acteur Vin Diesel
+Lijf en leden|de knieschijf
+Lijf en leden|De urineblaas
+Lijf en leden|de wijsvinger
+Lijf en leden|een hartklep
+Lijf en leden|Een kuiltje in de kin
+Lijf en leden|Een lui oog
+Lijf en leden|een teelbal
+Lijf en leden|een verstopte neus
+Lijf en leden|Elleboog
+Lijf en leden|Flaporen
+Lijf en leden|Gevulde kiezen
+Lijf en leden|Het strottenhoofd
+Lijf en leden|Krulhaar
+Lijf en leden|Piercing
+Lijf en leden|pijnlijke keel
+Lijf en leden|Sleutelbeen
+Lijf en leden|Verkalkte aderen
+Lijf en leden|Verstuikte voet
+Media|Bart De Pauw
+Media|Big Brother
+Media|Binnen zonder bellen
+Media|Birgit Van Mol
+Media|Chez Bompa Lawijt
+Media|'Ciao Bella!' met Eva Pauwels
+Media|Clouseau
+Media|de eeuwige strijd
+Media|De Feestridders
+Media|De Kotmadam
+Media|De krant 'De Morgen'
+Media|De krant 'De Standaard'
+Media|De krant 'Het Volk'
+Media|De Kreuners
+Media|De 'naked chef' Jamie Oliver
+Media|De Playboy
+Media|De slechtste chauffeur van Vlaanderen
+Media|De Vlaamse politieserie 'Rupel'
+Media|De Wellnesskliniek
+Media|De Werf
+Media|De zevende dag
+Media|drie mannen onder een dak
+Media|familie
+Media|Fear Factor
+Media|Gala gouden schoen van het jaar
+Media|Het leven zoals het is
+Media|Het Swingpaleis
+Media|het verstand van vlaanderen
+Media|Miljoenenjacht
+Media|Mister Bean
+Media|Nacht van exclusief
+Media|Rad Van Fortuin
+Media|Rita uit 'Familie'
+Media|SMSchat van kanaaltwee
+Media|Tien om Te Zien aan zee
+Media|Tien om te Zien Winter
+Media|TMF Awards
+Media|Top Of The pops
+Media|Vakantiekriebels
+Media|Vallende sterren op Q-Music
+Media|Videoclip
+Muziek|Arno Hintjens
+Natuur|Aardbeving
+Natuur|appelboom
+Natuur|Bruine cavia's
+Natuur|Buldog
+Natuur|De bosantilope
+Natuur|De chimpansee
+Natuur|De stinkzwam
+Natuur|De Vlaamse gaai
+Natuur|een aap op een boomstam
+Natuur|een bladluis
+Natuur|een bloedzuiger
+Natuur|een eekhoorn
+Natuur|een groene kikker
+Natuur|een grote denneboom
+Natuur|een grote mug
+Natuur|een koekoek
+Natuur|een papegaai met felle kleuren
+Natuur|Een plas water
+Natuur|een schildpad
+Natuur|een sluwe vos
+Natuur|Een smeltende gletsjer
+Natuur|een troep uitgehongerde hyena's
+Natuur|een wild konijn
+Natuur|een worm in de grond
+Natuur|Geitjes in de wei
+Natuur|Het regenwoud
+Natuur|Miauwende katers
+Natuur|Okkernoot
+Natuur|Gnoes uit Afrika
+Natuur|Ooievaar
+Natuur|Rode tulpen
+Natuur|Rups wordt vlinder
+Natuur|Tarantula
+Natuur|Uitgebloeide rozen
+Natuur|Vitamine K
+Natuur|vlinders in het rond
+Natuur|Vlooien op de kat
+Onaangename zaken|afgewezen worden
+Onaangename zaken|als uitschot behandeld worden
+Onaangename zaken|barstende hoofdpijn
+Onaangename zaken|Betaald worden met een ongedekte cheque
+Onaangename zaken|buiten gezet worden in het cafe
+Onaangename zaken|buiten gezet worden omdat je te dronken bent
+Onaangename zaken|de reclame tussendoor de film op televisie
+Onaangename zaken|de taart laten vallen als je van de bakker terug komt
+Onaangename zaken|De verjaardag van je vrouw vergeten
+Onaangename zaken|de wagen in de prak rijden
+Onaangename zaken|door iemand verweten worden
+Onaangename zaken|een deel missen van je favoriete televisie serie
+Onaangename zaken|een echtscheiding
+Onaangename zaken|Een haar in je soep vinden
+Onaangename zaken|een kind verliezen
+Onaangename zaken|een klets tegen de blote poep krijgen
+Onaangename zaken|een mep in je gezicht krijgen
+Onaangename zaken|een muggenbeet
+Onaangename zaken|Een muilpeer
+Onaangename zaken|een nachtje in de cel
+Onaangename zaken|een ongeneeselijke ziekte krijgen
+Onaangename zaken|een ontploffing van dichtbij meemaken
+Onaangename zaken|een pijnlijke maagzweer
+Onaangename zaken|Een pyromaan in huis hebben
+Onaangename zaken|Een reclameblok tijdens je favoriete programma
+Onaangename zaken|een schilderij verknoeien
+Onaangename zaken|een schreeuwende werkgever
+Onaangename zaken|een spuitje krijgen in de bil
+Onaangename zaken|een verstuikte pols
+Onaangename zaken|een verstuikte voet
+Onaangename zaken|een voetbal onverwachts in het aangezicht krijgen
+Onaangename zaken|een voetbalmatch missen
+Onaangename zaken|een wespensteek
+Onaangename zaken|een windje laten in bijzijn van anderen
+Onaangename zaken|ergens onverwachts tegen aan stoten
+Onaangename zaken|gebeten worden door een hond
+Onaangename zaken|gebroken vinger
+Onaangename zaken|gebroken voet
+Onaangename zaken|gedumpt worden door je geliefde
+Onaangename zaken|geen drinken in huis
+Onaangename zaken|geen erectie kunnen krijgen
+Onaangename zaken|geen eten meer in huis hebben
+Onaangename zaken|geen geheimpje kunnen bewaren
+Onaangename zaken|geen sigaretten meer in huis
+Onaangename zaken|gestalkt worden door je vorige partner
+Onaangename zaken|Hete koffie morsen op je schoot
+Onaangename zaken|iemand die je gaat verklikken
+Onaangename zaken|in de steek gelaten worden
+Onaangename zaken|in een hondenpoep trappen
+Onaangename zaken|in glas lopen
+Onaangename zaken|in je vinger snijden tijdens het koken
+Onaangename zaken|Je echtgenote met de postbode betrappen
+Onaangename zaken|Je eigen vrouw op een pornosite ontdekken
+Onaangename zaken|je huis zien afbranden
+Onaangename zaken|je verbranden bij het koken
+Onaangename zaken|Je vrouw aanspreken met de naam van je secretaresse
+Onaangename zaken|lang wachten bij de huisdokter
+Onaangename zaken|Maagzweer
+Onaangename zaken|met de maandstonden zitten
+Onaangename zaken|met krampen zitten
+Onaangename zaken|Migraine krijgen op je huwelijksnacht
+Onaangename zaken|mishandeld worden
+Onaangename zaken|moeten overgeven
+Onaangename zaken|morsen tijdens het eten
+Onaangename zaken|naar de politie een verklaring afleggen
+Onaangename zaken|naar de rechtbank moeten gaan
+Onaangename zaken|naar een strafstudie moeten
+Onaangename zaken|niet op tijd betaald worden
+Onaangename zaken|Ochtendhumeur
+Onaangename zaken|onder het mes moeten
+Onaangename zaken|ongezond verklaard worden
+Onaangename zaken|opname in het ziekenhuis
+Onaangename zaken|overuren moeten kloppen
+Onaangename zaken|pestende collega's op het werk
+Onaangename zaken|Piet Uitdebroek als naam hebben
+Onaangename zaken|ruzie maken omwille van een peulschil
+Onaangename zaken|sigarettenrook in het gezicht blazen van een nietroker
+Onaangename zaken|Slaande ruzie
+Onaangename zaken|struikelen over iets glad op de stoep
+Onaangename zaken|tegen een boom aanrijden
+Onaangename zaken|uitgedaagd worden
+Onaangename zaken|vechten voor je leven
+Onaangename zaken|vies bekeken worden
+Onaangename zaken|voor een gesloten winkel staan
+Onaangename zaken|Zoemende muggen in je slaapkamer
+Persoon|Actieve senior
+Persoon|Dierentemmer
+Persoon|Duivenmelker
+Persoon|Een doedelzakblazer
+Persoon|Een flauwe plezante
+Persoon|Een flierefluiter
+Persoon|Een kanunnik
+Persoon|Een meisje van zestien
+Persoon|Eendagsvlieg
+Persoon|Globetrotter
+Persoon|Gigolo
+Persoon|Het college van Burgemeester en schepenen
+Persoon|Premier Balkenende uit Nederland
+Persoon|Tante Nonneke
+Plaats|Aan het zebrapad
+Plaats|Blankenberge
+Plaats|Boudewijnpark
+Plaats|Dallas
+Plaats|De Azurenkust
+Plaats|De Oostendse vismijn
+Plaats|De visafdeling in de supermarkt
+Plaats|De zoo van antwerpen
+Plaats|Een volle televisiestudio
+Plaats|Het circuit van Imola
+Plaats|Het circuit van Zolder
+Plaats|het dierenpark Plankendael
+Plaats|Het dolfenarium
+Plaats|Het Zwin
+Plaats|Mexico
+Plaats|Monte-Carlo
+Plaats|Nicaragua
+Plaats|Op de begane grond
+Plaats|Op de weegschaal
+Spreekwoorden|Aan het korste eind trekken
+Spreekwoorden|Als bij toverslag
+Spreekwoorden|Als de wijn is in de man, is de wijsheid in de kan
+Spreekwoorden|Als het bier is in de man dan is de wijsheid in de kan
+Spreekwoorden|Als men van de duivel spreekt trapt men op zijn staart
+Spreekwoorden|De broek aan hebben
+Spreekwoorden|Een graantje meepikken
+Spreekwoorden|Een kat in een zak kopen
+Spreekwoorden|Een oogje in het zeil houden
+Spreekwoorden|Goedkoop is duurkoop
+Spreekwoorden|Het hazepad kiezen
+Spreekwoorden|Het ijzer smeden als het heet is
+Spreekwoorden|Het is geen klein bier
+Spreekwoorden|Het loopt de spuigaten uit
+Spreekwoorden|Hij ziet alle kleuren van de regenboog
+Spreekwoorden|Iemand Afschepen
+Spreekwoorden|Iemand iets in de schoenen schuiven
+Spreekwoorden|Iets uit zijn duim zuigen
+Spreekwoorden|In de hemel is geen bier daarom drinken we het hier
+Spreekwoorden|Niet veel in zijn mars hebben
+Spreekwoorden|onkruid vergaat niet
+Spreekwoorden|Oost west thuis best
+Spreekwoorden|Op zijn pootjes terechtkomen
+Spreekwoorden|Verandering van spijs doet eten
+Spreekwoorden|Voor iemand duimen
+Spreekwoorden|Wie a zegt moet ook b zeggen
+Spreekwoorden|Wie wind zaait zal storm oogsten
+Spreekwoorden|Wijn na bier geeft plezier, bier na wijn geeft venijn
+Spreekwoorden|Zijn hart vasthouden
+Terug in de tijd|Ambiorix
+Terug in de tijd|Aruna wint de gouden schoen
+Terug in de tijd|Brute vikings
+Terug in de tijd|Cleopatra
+Terug in de tijd|Columbus
+Terug in de tijd|De eerste harttransplantatie
+Terug in de tijd|De eerste man op de maan
+Terug in de tijd|De verwoestende uitbarsting van de vulkaan Vesuvius
+Terug in de tijd|Het neerhalen van de Berlijnse Muur
+Terug in de tijd|Het Watergate-schandaal
+Terug in de tijd|Mummie
+Terug in de tijd|Napoleon kroont zichzelf tot Frans keizer
+Titel|aan alle vrouwen die mij hebben verwend
+Titel|Adem haar tot leven
+Titel|Adieu Jolie Candy
+Titel|afscheid van een vriend
+Titel|al wie da nie springt is homofiel
+Titel|All day, All night
+Titel|alles kan een mens gelukkig maken
+Titel|als de dag van toen
+Titel|als de rook om je hoofd is verdwenen
+Titel|Als een leeuw in een kooi
+Titel|als ik bij jou kan zijn
+Titel|als je de taal van de liefde verstaat
+Titel|als marktkramer ben ik geboren
+Titel|any old time you're lonely and sad
+Titel|Aretha et moi
+Titel|baby one more time
+Titel|bakske vol met stro
+Titel|bang shang a lang
+Titel|because i got high
+Titel|bel me schrijf me
+Titel|ben je daar vannacht
+Titel|Ben je licht als een engel
+Titel|Bergen en ravijnen
+Titel|bij jou voel ik me nooit alleen
+Titel|black velvet
+Titel|Blijf nog een uurtje bij mij
+Titel|bob de bouwer
+Titel|boys boys boys
+Titel|Brandend avontuur
+Titel|breng die rozen naar Sandra
+Titel|by the way
+Titel|candle in the wind
+Titel|Capri c'est fini
+Titel|cara mia
+Titel|Clouseau met 'Vanbinnen'
+Titel|comme j'ai toujours envie d'aimer
+Titel|con te partiro
+Titel|crazy way about you
+Titel|Crying in the discotheque
+Titel|'daar gaat ze' van clouseau
+Titel|dag vreemde man
+Titel|dancing queen
+Titel|dans met mij tot morgenvroeg
+Titel|dat heet dan gelukkig zijn
+Titel|de dag dat het zonlicht niet meer scheen
+Titel|'de ganzenpas' van kabouter plop
+Titel|de herinnering blijft
+Titel|De hit 'Africa' van Toto
+Titel|'De naam van de roos' van Umberto Eco
+Titel|de opblaaskrokodil
+Titel|de oude man en de zee
+Titel|de pizzadans
+Titel|de soep is aangebrand
+Titel|de vlieger
+Titel|de vogeltjesdans
+Titel|de wilde boerendochtere
+Titel|dit is de allereerste keer
+Titel|don't get me wrong
+Titel|drink rode wijn
+Titel|Een beetje verliefd
+Titel|een eiland in groen en blauw
+Titel|een vrijgezel
+Titel|eenzaam zonder jou
+Titel|'eenzame kerst' van Andre Hazes
+Titel|eindeloos liefdesverhaal
+Titel|eternal flame
+Titel|Everlasting love
+Titel|Feel what you want
+Titel|Feeling so real
+Titel|Femme like you
+Titel|fernando
+Titel|fox on the run
+Titel|Freed from desire
+Titel|Gedachten zijn vrij
+Titel|Geef al je zorgen maar aan mij
+Titel|geef de nacht maar niet de schuld
+Titel|geen wonder dat ik ween
+Titel|get down tonight
+Titel|Get your rox off
+Titel|gimme gimme gimme
+Titel|Goeiemorgen morgen
+Titel|goodbye my love
+Titel|Greased lightnin
+Titel|had ik jou maar nooit gekend
+Titel|had ik maar nooit naar jou gekeken
+Titel|Harry Potter en de vuurbeker
+Titel|heb je even voor mij
+Titel|'Help' van de Beatles
+Titel|het busje komt zo
+Titel|het huis dat tussen rozen stond
+Titel|het is een nacht
+Titel|het kleine cafe aan de haven
+Titel|Het rode boekje van Mao
+Titel|het strand van Oostende
+Titel|hij speelde accordeon
+Titel|how deep is your love
+Titel|I believe i can fly
+Titel|i want you back
+Titel|i will always love you
+Titel|iemand heeft je pijn gedaan
+Titel|if i could turn back time
+Titel|ik ben blij dat ik je niet vergeten ben
+Titel|ik ben een vent van gent
+Titel|ik ben lola zwarte lola
+Titel|ik ben verliefd op jou
+Titel|ik ben zo eenzaam zonder jou
+Titel|ik dans met een ander
+Titel|ik ga dood aan jou
+Titel|ik geef me helemaal aan jou
+Titel|Ik heb de zon zien zakken in de zee
+Titel|ik hou van jou zoals je bent
+Titel|ik kan niet zonder jou leven
+Titel|ik mis je elke dag een beetje meer
+Titel|ik spring uit een vliegmachien
+Titel|ik wil alles met je doen
+Titel|'Ik wil je' van de Kreuners
+Titel|Ik zing vandaag een lied
+Titel|In de trein van Leuven naar Knokke Heist
+Titel|in een droom zach ik je staan
+Titel|in my eyes
+Titel|Inch Allah
+Titel|is er een ander in je leven
+Titel|it's a rainy day
+Titel|J'aime la vie
+Titel|Je taime moi non plus
+Titel|je veux lamour
+Titel|'Kaas' van Willem Elsschot
+Titel|kerstfeest voor iedereen
+Titel|kon ik maar even bij je zijn
+Titel|koningin van de nacht
+Titel|la bamba
+Titel|la isla bonita
+Titel|laat me alleen alleen met al mijn verdriet
+Titel|Laat me nu toch niet alleen
+Titel|laat me vandaag van jou zijn
+Titel|laat me zweven
+Titel|l'amour toujours
+Titel|leef met je eigen talent
+Titel|let it be
+Titel|Let the dream come true
+Titel|l'etranger, c'est mon ami
+Titel|let's twist again
+Titel|liefde voor muziek
+Titel|Liefdeskapitein
+Titel|like the wind
+Titel|Locks ands keys
+Titel|'Losing my religion' van REM
+Titel|love of my life
+Titel|Love of your life
+Titel|mag het altijd kerstmis zijn
+Titel|mama jij bent de liefste van de wereld
+Titel|meisje van hierboven
+Titel|men liefde voor jou is diep zo diep
+Titel|met de trein naar oostende
+Titel|moeder van mijn moeder
+Titel|money money money
+Titel|Mooi het leven is mooi
+Titel|mooi is het leven
+Titel|mooie vrouwen lopen nooit in de schaduw
+Titel|move your body
+Titel|my way
+Titel|non non rien n'a change
+Titel|not an addict
+Titel|och was ik maar bij moeder thuis gebleven
+Titel|oh oh oh lady
+Titel|omdat ik van je hou
+Titel|omdat ik vlaming ben
+Titel|one of us
+Titel|please dont go
+Titel|poesje stoei
+Titel|Pour un flirt
+Titel|Pour une flirt
+Titel|'Pump it up' van Danzel
+Titel|Queen of my heart
+Titel|Ruslana met 'Wild dances'
+Titel|'Satisfaction' van de Stones
+Titel|sex met die blonde
+Titel|she goes nana
+Titel|she makes me happy
+Titel|Sing Hallelujah
+Titel|Smooth Criminal
+Titel|Sneeuwwitje en de zeven dwergen
+Titel|soldiers of love
+Titel|Somethin' stupid
+Titel|stiekem met je gedanst
+Titel|storm in een glas water
+Titel|Sunshine after the rain
+Titel|surfer girl
+Titel|Suspicious Minds
+Titel|Sweet dreamer
+Titel|'Swentibold' van Clouseau
+Titel|swimming in the pool
+Titel|take me for a ride
+Titel|te min voor anja
+Titel|telkens ik jou nodig heb
+Titel|Tell me what it takes
+Titel|that's the way i like it
+Titel|The centre of the heart
+Titel|The logical song
+Titel|The rhythm of the night
+Titel|the summer is magic
+Titel|the tide is high
+Titel|The way to your heart
+Titel|this is the moment
+Titel|Through before we started
+Titel|Tiritomba
+Titel|toeter op men waterscooter
+Titel|toeter op mijn waterscooter
+Titel|true colors
+Titel|t's the way you make me feel
+Titel|underneath it all
+Titel|Underneath your clothes
+Titel|uptown girl
+Titel|'vanbinnen' van clouseau
+Titel|verdronken vlinder
+Titel|vergeet barbara
+Titel|verlaat me nooit
+Titel|verliefd op chris lomme
+Titel|vlaanderen boven
+Titel|vlaanderen mijn land
+Titel|Volare
+Titel|vreugde in je hart
+Titel|Wat zal ik voor je doen
+Titel|waterloo
+Titel|we like to party
+Titel|Well well well
+Titel|what is love
+Titel|When the going gets tough
+Titel|wij vieren feest
+Titel|wij zijn goe bezig
+Titel|You are the reason
+Titel|'you are the reason' van Koen Wauters en Sarah
+Titel|You're still the one
+Titel|zij gelooft in mij
+Titel|zij heeft stijl
+Titel|zo mooi zo blond en zo alleen
+Titel|Zoals die zomer van tien om te zien
+Titel|zomersproetjes
+Uitdrukkingen|Al ziet men kerk en toren staan dan is de reis nog niet gedaan
+Uitdrukkingen|Als de kat van huis is dansen de muizen
+Uitdrukkingen|Als het in de kajuit regent dan druipt het in de hut
+Uitdrukkingen|Altijd prijs
+Uitdrukkingen|Amen en uit
+Uitdrukkingen|boontje komt om zijn loontje
+Uitdrukkingen|De kust is veilig
+Uitdrukkingen|De nagel op de kop slaan
+Uitdrukkingen|Dromen zijn bedrog
+Uitdrukkingen|Een kat in een zak kopen
+Uitdrukkingen|Een kop als een boei hebben
+Uitdrukkingen|Een man met een boot is een slechte echtgenoot
+Uitdrukkingen|Een schot voor de boeg geven
+Uitdrukkingen|Een vrouw en een kip zijn de pest voor een schip
+Uitdrukkingen|Er een puntje aan zuigen
+Uitdrukkingen|Ergens een slag naar slaan
+Uitdrukkingen|Ergens met de pet naar gooien
+Uitdrukkingen|Ergens voor anker gaan
+Uitdrukkingen|Het roer in handen hebben
+Uitdrukkingen|Het vriest de stenen uit de grond
+Uitdrukkingen|hoog van de toren blazen
+Uitdrukkingen|Ieder pondje gaat door het mondje
+Uitdrukkingen|Iemand in de peiling hebben
+Uitdrukkingen|Iemand van bakboord naar stuurboord sturen
+Uitdrukkingen|In een oude kom maakt men de beste soep
+Uitdrukkingen|in zak en as zitten
+Uitdrukkingen|Kapers op de kust
+Uitdrukkingen|Kind noch kraai hebben
+Uitdrukkingen|Kink in de kabel 
+Uitdrukkingen|Kleine oorzaken hebben soms grote gevolgen
+Uitdrukkingen|Krimpende winden en uitgaande vrouwen zijn niet te vertrouwen
+Uitdrukkingen|Met de kloten voor het blok zitten
+Uitdrukkingen|Met een ei zitten
+Uitdrukkingen|Met man en muis vergaan
+Uitdrukkingen|Niet goed snik zijn
+Uitdrukkingen|Uit de boot vallen
+Uitdrukkingen|Wie met de duivel is gescheept moet met hem over 
+Wereldberoemd|Britney spears
+Wereldberoemd|De blanke rapper Eminem
+Wereldberoemd|De gespierde Chippendales
+Wereldberoemd|De grote pruiken van Dolly Parton
+Wereldberoemd|De zwarte parel Pele
+Wereldberoemd|Elton John
+Wereldberoemd|Elvis Presley
+Wereldberoemd|Gandhi
+Wereldberoemd|James Bond
+Wereldberoemd|Janet Jackson
+Wereldberoemd|Jay & the americans
+Wereldberoemd|Koningin Noor
+Wereldberoemd|Madonna
+Wereldberoemd|Manneken Pis
+Wereldberoemd|Maradona
+Wereldberoemd|Michael Douglas
+Wereldberoemd|Michael Jackson
+Wereldberoemd|Mick jagger
+Wereldberoemd|Miljardair Bill Gates
+Wereldberoemd|New Kids On The Block
+Wereldberoemd|Paris Hilton
+Wereldberoemd|Popster Robbie Williams
+Wereldberoemd|Rollingstones
+Wereldberoemd|Rowan adkinson
+Wereldberoemd|The Beatles
+Wereldberoemd|Tom Cruise
+Wereldberoemd|Tom Jones

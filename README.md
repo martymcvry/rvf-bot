@@ -1,2 +1,2 @@
 # rvf-bot
-mIRC bot that can be used to play Wheel of Fortune on an IRC-server
+RvF-bot is an mIRC script that enables you to play a "Wheel of Fortune" game on a chatbox on IRC. Languages available: - Dutch - Spanish. This project is discontinued, but it works.
